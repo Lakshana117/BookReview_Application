@@ -1,0 +1,87 @@
+.log {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(251, 249, 249, 0.1);
+    background-color: #373737b7;
+    color: white;
+    margin-bottom: 20px;
+    /* margin-top: -30px; */
+    /* margin-bottom: 100px; */
+    /* padding-bottom: 40px; */
+    /* height: 700px;; */
+
+}
+.log.container
+{
+  padding-bottom: 20px;
+}
+
+.log h1 {
+  color: #333;
+  color:white
+}
+
+.log label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.log input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.log button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.log button:hover {
+  background-color: #45a049;
+}
+
+.log a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.log a:hover {
+  text-decoration: underline;
+}
+li{
+  padding: 0;
+}
+
+.logimage
+{
+  background-image: url('./book4.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 630px;
+  padding-top: 0%;
+  margin-top: -30px;
+}
+/* body{
+  background-image: url('../Image/home_image1.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  /* position: absolute; */
+/* } */ 
+/* body{
+  background-image: url('C:\Users\91739\Desktop\Medical shop\my_react\src\Assets\Image\home_image1.jpg');
+  background-size: cover;
+ } */
+colgroup{
+  color: rgb(8, 123, 123);
+}

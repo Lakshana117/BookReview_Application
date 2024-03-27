@@ -1,0 +1,12 @@
+
+  #addBook {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+  }
+body{
+    background-image: url('./book4.png');
+    background-size: cover; /* Adjust to your preference */
+    background-repeat: no-repeat;
+  }
